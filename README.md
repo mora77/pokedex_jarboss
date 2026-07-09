@@ -2,6 +2,10 @@
 
 
 
+https://github.com/user-attachments/assets/74037058-76f8-4d96-93fb-cd54c5b95256
+
+
+
 ---
 
 ## 🎨 Diseño UX/UI / UX/UI Design
@@ -31,7 +35,7 @@ Este proyecto está construido con **Flutter 3.24.0**. Asegúrate de tener insta
 
 1. **Clona el repositorio**:
 ```bash
-git clone git@github.com:mora77/pokedex_jarboss.git your_folder_name
+git clone https://github.com/mora77/pokedex_jarboss.git your_folder_name
 cd your_folder_name
 ```
 
@@ -117,7 +121,7 @@ This project is built with **Flutter 3.24.0**. Please ensure you have the correc
 
 1. **Clone the repository**:
 ```bash
-git clone git@github.com:mora77/pokedex_jarboss.git your_folder_name
+git clone https://github.com/mora77/pokedex_jarboss.git your_folder_name
 cd your_folder_name
 ```
 
