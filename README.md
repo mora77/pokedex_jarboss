@@ -1,6 +1,6 @@
 ## 🎬 Vídeo de Demostración / Demo Video
 
-https://github.com/user-attachments/assets/5a0fe477-2e46-4478-9ec2-2c87bfcc9ea9
+
 
 ---
 
@@ -31,7 +31,7 @@ Este proyecto está construido con **Flutter 3.24.0**. Asegúrate de tener insta
 
 1. **Clona el repositorio**:
 ```bash
-git clone git@github.com:bmoraa16/jarboss_assessment.git your_folder_name
+git clone git@github.com:mora77/pokedex_jarboss.git your_folder_name
 cd your_folder_name
 ```
 
@@ -117,7 +117,7 @@ This project is built with **Flutter 3.24.0**. Please ensure you have the correc
 
 1. **Clone the repository**:
 ```bash
-git clone git@github.com:bmoraa16/jarboss_assessment.git your_folder_name
+git clone git@github.com:mora77/pokedex_jarboss.git your_folder_name
 cd your_folder_name
 ```
 
