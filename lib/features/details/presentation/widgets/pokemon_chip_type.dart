@@ -1,0 +1,34 @@
+import 'package:flutter/material.dart';
+import 'package:prueba_jarboss/core/extensions/string_extensions.dart';
+import 'package:prueba_jarboss/theme/app_colors.dart';
+
+class PokemonChipType extends StatelessWidget {
+  final String label;
+  final Color backgroundColor;
+  const PokemonChipType({
+    super.key,
+    required this.label,
+    required this.backgroundColor,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Chip(
+      label: Text(
+        label.toCapitalized(),
+        style: TextStyle(
+          fontSize: 10,
+          color: AppColors.grayScaleWhite,
+          fontWeight: FontWeight.bold,
+        ),
+      ),
+      backgroundColor: backgroundColor,
+      shape: StadiumBorder(
+        side: BorderSide(
+          color: backgroundColor,
+          width: 0,
+        ),
+      ),
+    );
+  }
+}
